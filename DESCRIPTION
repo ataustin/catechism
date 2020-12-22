@@ -1,0 +1,17 @@
+Package: catechism
+Title: Catechism of the Catholic Church
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Adam",
+           family = "Austin",
+           role = c("aut", "cre", "cph"),
+           email = "ataustin@gmail.com")
+Description: Build the Catechism of the Catholic Church by scraping the text
+             from the Vatican's website.
+License: MIT + file LICENSE
+URL: https://github.com/ataustin/catechism
+BugReports: https://github.com/ataustin/catechism/issues
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
